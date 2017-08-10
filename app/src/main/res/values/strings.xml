@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LowPassMotionSensor</string>
+
+    <string name="sensorPrompt">Choose a sensor</string>
+
+    <string-array name="sensorList">
+        <item>Accelerometer</item>
+        <item>Gyroscope</item>
+        <item>Magnetometer</item>
+    </string-array>
+</resources>
